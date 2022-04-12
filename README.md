@@ -1,5 +1,16 @@
 ## Projeto de envio de leads com Fila de emails e jobs
 
+### Instalando o projeto:
+- **git clone: https://github.com/Deivison07/ApiLaravelWebhook**
+- **cd ApiLaravelWebhook**
+- **composer install --no-scripts**
+- **cp .env.example .env**
+- **php artisan key:generate**
+- **php artisan migrate --seed**
+
+### Executando o projeto:
+- **php artisan serve**
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
