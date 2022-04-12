@@ -1,0 +1,8 @@
+#principal{
+    margin: auto;
+    border: 2px solid red;
+    width: 200px;
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
